@@ -1,6 +1,8 @@
 # BasedBot v1
 Telegram bot that determines if you're based or cringe.
 
+![Screenshot of the bot in action](screenshot.jpg)
+
 ## How to run it
 1. Install Python3.
 2. Install [pyTelegramBotAPI](https://github.com/eternnoir/pyTelegramBotAPI).
