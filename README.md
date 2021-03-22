@@ -1,7 +1,7 @@
 # BasedBot v1
 Telegram bot that determines if you're based or cringe.
 
-<img src="screenshot.jpg" width="350px" height="350px"/>
+<img src="screenshot.jpg" width="600px" height="600px"/>
 
 ## How to run it
 1. Install Python3.
